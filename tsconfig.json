@@ -1,0 +1,15 @@
+{
+	"compilerOptions":
+	{
+		"module": "commonjs",
+		"jsx": "react",
+		"removeComments": true,
+		"target": "es5",
+		"typeRoots": ["node_modules/@types"],
+		"experimentalDecorators": true
+	},
+	"include":
+	[
+		"src/**/*"
+	]
+}
